@@ -1,6 +1,6 @@
 // App.js
 
-// Importa o que é necessário para Configurar o amplify para ter acesso aos recursos aws criados no projeto
+// Importa o que é necessário para Configurar o amplify para ter acesso aos recursos aws criados no projeto.  olha ai
 import Amplify from 'aws-amplify'
 import config from './aws-exports'
 
